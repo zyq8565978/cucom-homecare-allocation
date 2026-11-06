@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "aggregate_csv_files_unchanged": 47,
+  "aggregate_csv_rows": 46157,
+  "individual_records_in_release": false,
+  "private_arrays_in_release": false,
+  "credentials_or_machine_paths_in_release": false,
+  "all_frozen_display_files_unchanged": true,
+  "code_license": "MIT; original code only"
+}

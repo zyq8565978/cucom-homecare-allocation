@@ -1,0 +1,49 @@
+﻿domain,key,row,characteristic,field,variable,statistic,domain_n,n_valid,n_missing,weight_sum,n,weighted_percent,mean,sd,q25,median,q75,display,disclosure
+Overall,age,age,"Age, years, mean (SD)",age,age,mean_sd,2433,2433,0,75990137.8536433,,,72.83433892586555,8.446207073627107,,,,72.8 (8.4),RELEASED
+Overall,men,men,Male,sex,sex,count_pct,2433,2433,0,75990137.8536433,930,40.61280180476293,,,,,,930 (40.6),RELEASED
+Overall,women,women,Female,sex,sex,count_pct,2433,2433,0,75990137.8536433,1503,59.38719819523707,,,,,,"1,503 (59.4)",RELEASED
+Overall,urban,urban,Urban,rural,rural,count_pct,2433,2433,0,75990137.8536433,804,42.35646682314108,,,,,,804 (42.4),RELEASED
+Overall,rural,rural,Rural,rural,rural,count_pct,2433,2433,0,75990137.8536433,1629,57.64353317685893,,,,,,"1,629 (57.6)",RELEASED
+Overall,below_primary,below_primary,Less than primary,education,education,count_pct,2433,2433,0,75990137.8536433,1551,60.729414866105,,,,,,"1,551 (60.7)",RELEASED
+Overall,primary,primary,Primary,education,education,count_pct,2433,2433,0,75990137.8536433,514,21.846523826926923,,,,,,514 (21.8),RELEASED
+Overall,secondary,secondary,Secondary or higher,education,education,count_pct,2433,2433,0,75990137.8536433,368,17.424061306968067,,,,,,368 (17.4),RELEASED
+Overall,married_partnered,married_partnered,"Married or partnered, n (%)",married_partnered,married_partnered,count_pct,2433,2433,0,75990137.8536433,1710,67.14046855393944,,,,,,"1,710 (67.1)",RELEASED
+Overall,living_alone,living_alone,"Living alone, n (%)",living_alone,living_alone,count_pct,2433,2433,0,75990137.8536433,337,15.058804512796488,,,,,,337 (15.1),RELEASED
+Overall,chronic,chronic,"Number of chronic conditions, median (IQR)",chronic_n,chronic_n,median_iqr,2433,2433,0,75990137.8536433,,,,,2.0,3.0,5.0,3 (2–5),RELEASED
+Overall,B,B,"Basic ADL difficulty score (0–15), median (IQR)",B,B,median_iqr,2433,2433,0,75990137.8536433,,,,,1.0,2.0,4.0,2 (1–4),RELEASED
+Overall,I,I,"IADL difficulty score (0–15), median (IQR)",I,I,median_iqr,2433,2433,0,75990137.8536433,,,,,1.0,4.0,9.0,4 (1–9),RELEASED
+Overall,tier3,tier3,Unable to perform at least one basic ADL,tier,tier,count_pct,2433,2433,0,75990137.8536433,299,13.037426952896487,,,,,,299 (13.0),RELEASED
+Overall,tier2,tier2,"Needs help with basic ADLs, without inability",tier,tier,count_pct,2433,2433,0,75990137.8536433,531,23.45318754984554,,,,,,531 (23.5),RELEASED
+Overall,tier1,tier1,IADL dependence only,tier,tier,count_pct,2433,2433,0,75990137.8536433,840,34.726540870115834,,,,,,840 (34.7),RELEASED
+Overall,tier0,tier0,Other functional difficulties,tier,tier,count_pct,2433,2433,0,75990137.8536433,763,28.782844627142136,,,,,,763 (28.8),RELEASED
+Overall,family,family,"Family assistance reported, n (%)",family_confirmed,family_confirmed,count_pct,2433,2433,0,75990137.8536433,1640,69.67418793890069,,,,,,"1,640 (69.7)",RELEASED
+Overall,gap,gap,Explicit same-activity assistance gap,gap_known,gap_known,count_pct,2433,2433,0,75990137.8536433,564,23.098754737479943,,,,,,564 (23.1),RELEASED
+With assistance gaps,age,age,"Age, years, mean (SD)",age,age,mean_sd,564,564,0,17552775.567486,,,73.76027925102595,8.48313490153713,,,,73.8 (8.5),RELEASED
+With assistance gaps,men,men,Male,sex,sex,count_pct,564,564,0,17552775.567486,230,43.33543650391829,,,,,,230 (43.3),RELEASED
+With assistance gaps,women,women,Female,sex,sex,count_pct,564,564,0,17552775.567486,334,56.664563496081705,,,,,,334 (56.7),RELEASED
+With assistance gaps,urban,urban,Urban,rural,rural,count_pct,564,564,0,17552775.567486,174,38.80004740683857,,,,,,174 (38.8),RELEASED
+With assistance gaps,rural,rural,Rural,rural,rural,count_pct,564,564,0,17552775.567486,390,61.199952593161406,,,,,,390 (61.2),RELEASED
+With assistance gaps,below_primary,below_primary,Less than primary,education,education,count_pct,564,564,0,17552775.567486,360,65.07095828605266,,,,,,360 (65.1),RELEASED
+With assistance gaps,primary,primary,Primary,education,education,count_pct,564,564,0,17552775.567486,130,20.705340891411083,,,,,,130 (20.7),RELEASED
+With assistance gaps,secondary,secondary,Secondary or higher,education,education,count_pct,564,564,0,17552775.567486,74,14.223700822536253,,,,,,74 (14.2),RELEASED
+With assistance gaps,married_partnered,married_partnered,"Married or partnered, n (%)",married_partnered,married_partnered,count_pct,564,564,0,17552775.567486,354,57.94041429845539,,,,,,354 (57.9),RELEASED
+With assistance gaps,living_alone,living_alone,"Living alone, n (%)",living_alone,living_alone,count_pct,564,564,0,17552775.567486,108,20.856868701254108,,,,,,108 (20.9),RELEASED
+With assistance gaps,chronic,chronic,"Number of chronic conditions, median (IQR)",chronic_n,chronic_n,median_iqr,564,564,0,17552775.567486,,,,,2.0,3.0,5.0,3 (2–5),RELEASED
+With assistance gaps,B,B,"Basic ADL difficulty score (0–15), median (IQR)",B,B,median_iqr,564,564,0,17552775.567486,,,,,1.0,3.0,5.0,3 (1–5),RELEASED
+With assistance gaps,I,I,"IADL difficulty score (0–15), median (IQR)",I,I,median_iqr,564,564,0,17552775.567486,,,,,3.0,6.0,9.0,6 (3–9),RELEASED
+With assistance gaps,tier3,tier3,Unable to perform at least one basic ADL,tier,tier,count_pct,564,564,0,17552775.567486,143,25.44527749465491,,,,,,143 (25.4),RELEASED
+With assistance gaps,tier2,tier2,"Needs help with basic ADLs, without inability",tier,tier,count_pct,564,564,0,17552775.567486,176,33.082645896645275,,,,,,176 (33.1),RELEASED
+With assistance gaps,tier1,tier1,IADL dependence only,tier,tier,count_pct,564,564,0,17552775.567486,245,41.47207660869982,,,,,,245 (41.5),RELEASED
+With assistance gaps,tier0,tier0,Other functional difficulties,tier,tier,count_pct,564,564,0,17552775.567486,0,0.0,,,,,,0 (0.0),RELEASED
+With assistance gaps,family,family,"Family assistance reported, n (%)",family_confirmed,family_confirmed,count_pct,564,564,0,17552775.567486,366,66.67864716333517,,,,,,366 (66.7),RELEASED
+With assistance gaps,gap,gap,Explicit same-activity assistance gap,gap_known,gap_known,count_pct,564,564,0,17552775.567486,564,100.0,,,,,,564 (100.0),RELEASED
+Overall,age60_64,age60_64,60–64,age,age,count_pct,2433,2433,0,75990137.8536433,498,18.087960229031065,,,,,,498 (18.1),RELEASED
+Overall,age65_69,age65_69,65–69,age,age,count_pct,2433,2433,0,75990137.8536433,628,23.547035175177463,,,,,,628 (23.5),RELEASED
+Overall,age70_74,age70_74,70–74,age,age,count_pct,2433,2433,0,75990137.8536433,492,18.081923482170392,,,,,,492 (18.1),RELEASED
+Overall,age75_79,age75_79,75–79,age,age,count_pct,2433,2433,0,75990137.8536433,399,16.360799810313072,,,,,,399 (16.4),RELEASED
+Overall,age80plus,age80plus,≥80,age,age,count_pct,2433,2433,0,75990137.8536433,416,23.922281303307997,,,,,,416 (23.9),RELEASED
+With assistance gaps,age60_64,age60_64,60–64,age,age,count_pct,564,564,0,17552775.567486,85,13.071229715322456,,,,,,85 (13.1),RELEASED
+With assistance gaps,age65_69,age65_69,65–69,age,age,count_pct,564,564,0,17552775.567486,158,25.24889321476286,,,,,,158 (25.2),RELEASED
+With assistance gaps,age70_74,age70_74,70–74,age,age,count_pct,564,564,0,17552775.567486,123,18.195720271511984,,,,,,123 (18.2),RELEASED
+With assistance gaps,age75_79,age75_79,75–79,age,age,count_pct,564,564,0,17552775.567486,88,16.786824903281705,,,,,,88 (16.8),RELEASED
+With assistance gaps,age80plus,age80plus,≥80,age,age,count_pct,564,564,0,17552775.567486,110,26.697331895121003,,,,,,110 (26.7),RELEASED

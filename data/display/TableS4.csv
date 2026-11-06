@@ -1,0 +1,23 @@
+﻿Comparison,Capacity,"Δ Programmes
+(95% CI)","Δ Gap allocations
+(95% CI)","Δ Covered IADL
+(95% CI)","Δ Family-help allocations
+(95% CI)"
+Equal places,100,0,Withheld,Withheld,Withheld
+Equal places,200,0,Withheld,Withheld,Withheld
+Equal places,300,0,8.79 (0.14 to 18.21),−68.01 (−151.19 to 0.00),Withheld
+Equal places,400,0,5.99 (0.00 to 7.27),−25.81 (−29.65 to 0.00),Withheld
+Equal places,500,0,17.40 (5.68 to 21.94),−65.77 (−109.77 to −10.22),−12.67 (−16.43 to −2.25)
+Equal places,600,0,28.83 (14.72 to 34.65),−133.78 (−186.78 to −43.33),−12.71 (−17.98 to −4.21)
+Equal places,700,0,Withheld,Withheld,Withheld
+Equal places,800,0,0,0,0
+Equal places,900,0,0,0,0
+Fixed resources,100,−1.00 (−1.00 to −1.00),Withheld,Withheld,Withheld
+Fixed resources,200,−1.00 (−1.00 to −1.00),Withheld,Withheld,Withheld
+Fixed resources,300,−1.00 (−1.00 to −1.00),7.79 (−0.03 to 17.92),−70.78 (−156.39 to 0.00),Withheld
+Fixed resources,400,−1.00 (−1.00 to −1.00),4.99 (−0.36 to 6.85),−28.81 (−36.35 to −2.83),Withheld
+Fixed resources,500,−1.00 (−2.00 to −1.00),17.40 (4.55 to 21.73),−73.77 (−118.61 to −15.82),−13.67 (−17.69 to −2.88)
+Fixed resources,600,−2.00 (−2.00 to −2.00),28.83 (12.75 to 34.32),−158.25 (−205.82 to −59.32),−14.71 (−19.83 to −5.46)
+Fixed resources,700,−2.00 (−2.00 to 0.00),Withheld,Withheld,Withheld
+Fixed resources,800,0,0,0,0
+Fixed resources,900,0,0,0,0

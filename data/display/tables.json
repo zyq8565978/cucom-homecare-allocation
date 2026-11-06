@@ -1,0 +1,1146 @@
+{
+  "Table1": {
+    "title": "Baseline characteristics of the study population and participants with assistance gaps",
+    "headers": [
+      "Characteristic",
+      "Overall (N = 2,433)",
+      "With assistance gaps\n(n = 564)"
+    ],
+    "rows": [
+      [
+        "Age, years, mean (SD)",
+        "72.8 (8.4)",
+        "73.8 (8.5)"
+      ],
+      [
+        "Age group, years, n (%)",
+        "",
+        ""
+      ],
+      [
+        "60–64",
+        "498 (18.1)",
+        "85 (13.1)"
+      ],
+      [
+        "65–69",
+        "628 (23.5)",
+        "158 (25.2)"
+      ],
+      [
+        "70–74",
+        "492 (18.1)",
+        "123 (18.2)"
+      ],
+      [
+        "75–79",
+        "399 (16.4)",
+        "88 (16.8)"
+      ],
+      [
+        "≥80",
+        "416 (23.9)",
+        "110 (26.7)"
+      ],
+      [
+        "Sex, n (%)",
+        "",
+        ""
+      ],
+      [
+        "Male",
+        "930 (40.6)",
+        "230 (43.3)"
+      ],
+      [
+        "Female",
+        "1,503 (59.4)",
+        "334 (56.7)"
+      ],
+      [
+        "Residence, n (%)",
+        "",
+        ""
+      ],
+      [
+        "Urban",
+        "804 (42.4)",
+        "174 (38.8)"
+      ],
+      [
+        "Rural",
+        "1,629 (57.6)",
+        "390 (61.2)"
+      ],
+      [
+        "Educational attainment, n (%)",
+        "",
+        ""
+      ],
+      [
+        "Less than primary",
+        "1,551 (60.7)",
+        "360 (65.1)"
+      ],
+      [
+        "Primary",
+        "514 (21.8)",
+        "130 (20.7)"
+      ],
+      [
+        "Secondary or higher",
+        "368 (17.4)",
+        "74 (14.2)"
+      ],
+      [
+        "Married or partnered, n (%)",
+        "1,710 (67.1)",
+        "354 (57.9)"
+      ],
+      [
+        "Living alone, n (%)",
+        "337 (15.1)",
+        "108 (20.9)"
+      ],
+      [
+        "Number of chronic conditions, median (IQR)",
+        "3 (2–5)",
+        "3 (2–5)"
+      ],
+      [
+        "Basic ADL difficulty score (0–15), median (IQR)",
+        "2 (1–4)",
+        "3 (1–5)"
+      ],
+      [
+        "IADL difficulty score (0–15), median (IQR)",
+        "4 (1–9)",
+        "6 (3–9)"
+      ],
+      [
+        "Functional dependency tier, n (%)",
+        "",
+        ""
+      ],
+      [
+        "Unable to perform at least one basic ADL",
+        "299 (13.0)",
+        "143 (25.4)"
+      ],
+      [
+        "Needs help with basic ADLs, without inability",
+        "531 (23.5)",
+        "176 (33.1)"
+      ],
+      [
+        "IADL dependence only",
+        "840 (34.7)",
+        "245 (41.5)"
+      ],
+      [
+        "Other functional difficulties",
+        "763 (28.8)",
+        "0 (0.0)"
+      ],
+      [
+        "Family assistance reported, n (%)",
+        "1,640 (69.7)",
+        "366 (66.7)"
+      ]
+    ],
+    "note": "Counts are unweighted; percentages are survey weighted within each column and may not total 100 because of rounding. Continuous summaries are survey weighted. The 564 participants with gaps are a subset of the overall population; no between-column tests were performed. A gap requires an activity reported as needing help or impossible to perform and explicit non-receipt of help for that activity. Family assistance denotes a confirmed helper report and may coexist with a gap; other records do not establish absence of family help. ADL, activities of daily living; IADL, instrumental ADL; IQR, interquartile range; SD, standard deviation. Measurement and source-availability details are in Table S1.",
+    "widths": [
+      9.9,
+      3.6,
+      4.5
+    ],
+    "row_keys": [
+      "age",
+      "@Age group, years, n (%)",
+      "age60_64",
+      "age65_69",
+      "age70_74",
+      "age75_79",
+      "age80plus",
+      "@Sex, n (%)",
+      "men",
+      "women",
+      "@Residence, n (%)",
+      "urban",
+      "rural",
+      "@Educational attainment, n (%)",
+      "below_primary",
+      "primary",
+      "secondary",
+      "married_partnered",
+      "living_alone",
+      "chronic",
+      "B",
+      "I",
+      "@Functional dependency tier, n (%)",
+      "tier3",
+      "tier2",
+      "tier1",
+      "tier0",
+      "family"
+    ],
+    "heading_rows": [
+      1,
+      7,
+      10,
+      13,
+      22
+    ],
+    "indented_rows": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11,
+      12,
+      14,
+      15,
+      16,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  "Table2": {
+    "title": "Allocation and resource consequences at 500 complete programmes per 1,000 candidates",
+    "headers": [
+      "Outcome",
+      "S0",
+      "S1",
+      "Difference (95% CI)"
+    ],
+    "rows": [
+      [
+        "Complete programmes",
+        "500",
+        "500",
+        "0"
+      ],
+      [
+        "Allocations to people with assistance gaps",
+        "176.71",
+        "194.12",
+        "17.40 (5.68 to 21.94)"
+      ],
+      [
+        "Basic ADL need covered (index units)",
+        "2,441.84",
+        "2,441.84",
+        "0"
+      ],
+      [
+        "IADL need covered (index units)",
+        "3,905.02",
+        "3,839.25",
+        "−65.77 (−109.77 to −10.22)"
+      ],
+      [
+        "Allocations to people reporting family assistance",
+        "443.16",
+        "430.50",
+        "−12.67 (−16.43 to −2.25)"
+      ],
+      [
+        "Total nursing time (h)",
+        "4,000.00",
+        "4,007.39",
+        "7.39 (6.18 to 8.63)"
+      ],
+      [
+        "Occupational therapy time (h)",
+        "5,750.00",
+        "5,750.00",
+        "0"
+      ],
+      [
+        "Patient participation time (h)",
+        "5,000.00",
+        "5,007.39",
+        "7.39 (6.18 to 8.63)"
+      ],
+      [
+        "Provider cost (2024 US$)",
+        "539,277.92",
+        "539,394.04",
+        "116.11 (97.07 to 135.54)"
+      ]
+    ],
+    "note": "S0, function-first; S1, gap-first. Both allocate 500 complete programmes per 1,000 original, survey-weighted candidates; S1 additionally pays for targeted enquiry. Differences are S1 minus S0, with paired percentile 95% CIs from community resampling; structural equalities are shown as 0. Nursing and patient time include enquiry. Time and 2024 US$ costs are planning estimates. Family assistance means confirmed reports (Table S1). Allocations are modelled opportunities, not observed counts; covered need is not functional improvement.",
+    "widths": [
+      6.4,
+      2.8,
+      2.8,
+      6.0
+    ]
+  },
+  "TableS1": {
+    "title": "Measurements, eligibility and missing-data rules",
+    "headers": [
+      "Construct",
+      "Definition and source",
+      "Routing or interpretation"
+    ],
+    "rows": [
+      [
+        "Population",
+        "2018 interview; age ≥60; community dwelling; at least two reported chronic conditions; qualifying functional difficulty.",
+        "Exact frozen 2,433 members; no selection using follow-up."
+      ],
+      [
+        "Functional entry",
+        "At least one basic ADL difficulty or at least two IADL difficulties.",
+        "Ten activity responses resolved in the original cohort."
+      ],
+      [
+        "Age and recorded sex",
+        "Harmonized CHARLS r4agey and ragender; native codes 1 man, 2 woman. Age groups: 60–64, 65–69, 70–74, 75–79 and ≥80.",
+        "Matched to the same frozen records. Age groups are exhaustive and nonoverlapping; counts and weighted percentages use each column’s full denominator (2,433 or 564). No missing values."
+      ],
+      [
+        "Education",
+        "raeduc_c: 1–3 below completed primary (including traditional Sishu), 4 primary, 5–10 secondary or higher.",
+        "No missing values in this cohort; schooling group is descriptive."
+      ],
+      [
+        "Residence",
+        "h4rural: urban community or rural village at the current interview.",
+        "Current residence, not household registration (hukou); no missing values in either column."
+      ],
+      [
+        "Marital status",
+        "r4mstath codes 1, 2 or 3: reported married or cohabiting; original BE001/BE002.",
+        "Includes temporarily absent spouses; no implied partnership recoding. No missing values in either column."
+      ],
+      [
+        "Living alone",
+        "h4hhres = 1; documented current coresident household roster.",
+        "Not inferred from widowhood or absence of a spouse. No missing values in either column."
+      ],
+      [
+        "Chronic conditions",
+        "Original count of 14 reported conditions, retaining verified diagnostic routes.",
+        "No new case definitions, imputation or selection."
+      ],
+      [
+        "Basic ADL",
+        "Dressing, bathing, eating, bed transfer and toileting; db010–db014.",
+        "Native 1 no difficulty; 2 difficulty but independent; 3 needs help; 4 unable."
+      ],
+      [
+        "Instrumental ADL",
+        "Housework, meal preparation, shopping, finances and medication; db016–db020.",
+        "Same four native categories; inability remains distinct."
+      ],
+      [
+        "Need indices",
+        "B and I each sum response minus 1 across five activities, range 0–15.",
+        "Ordinal need indices, not utility or formal disability grades."
+      ],
+      [
+        "Structural skip",
+        "Verified negative basic-ADL screening may establish no difficulty.",
+        "Ordinary missing responses are not assigned zero difficulty."
+      ],
+      [
+        "Explicit assistance gap",
+        "Code 3 or 4 plus explicit no help for that same activity.",
+        "A confirmed gap remains confirmed despite another unknown item."
+      ],
+      [
+        "Unknown help",
+        "Needed-help answers incomplete without any confirmed gap.",
+        "Unknown is not no help; original function-first probability retained."
+      ],
+      [
+        "Family assistance",
+        "Confirmed family-helper report from the functional-module roster; denominator is all members of the column.",
+        "May coexist with a gap; non-confirmation is not absence of help. Full roster unobserved/incomplete in 728 overall and 186 gap-subgroup records, including structural non-entry."
+      ],
+      [
+        "Nested subgroup and summaries",
+        "gap_known = 1 identifies exactly 564 of the original 2,433 participants. Original INDV_weight_ad2; descriptive SD and inverse weighted empirical quartiles.",
+        "Each column uses its own weighted denominator. No p values, SMDs, complete-case selection or imputation. All displayed indicators have defined values; roster availability is distinguished above."
+      ],
+      [
+        "Follow-up",
+        "Same-person 2018–2020 link and current activity/help measurements.",
+        "Death, unresolved qualification and measured non-entry remain separate."
+      ]
+    ],
+    "note": "Baseline values are in Table 1. Exact sources and derivations are in BASELINE_VARIABLE_MAP_UPDATED.csv; valid and missing denominators, including source roster availability, are in UPDATED_BASELINE_DENOMINATORS.csv. Functional tiers are mutually exclusive model priorities, not validated disability grades. Brief ranking enquiry is not a formal clinical or statutory disability assessment.",
+    "widths": [
+      3.2,
+      7.5,
+      7.3
+    ]
+  },
+  "TableS2": {
+    "title": "Complete service and resource inputs",
+    "headers": [
+      "Input",
+      "Frozen value",
+      "Source or planning basis"
+    ],
+    "rows": [
+      [
+        "Programme duration",
+        "5 months",
+        "CAPABLE 2014 protocol; 2019 RCT [1,2]."
+      ],
+      [
+        "Nursing visits",
+        "Up to 4 visits",
+        "CAPABLE protocol [1]; complete programme retained."
+      ],
+      [
+        "Occupational therapy visits",
+        "Up to 6 visits",
+        "CAPABLE protocol [1]; complete programme retained."
+      ],
+      [
+        "Nursing time per programme",
+        "8 h",
+        "Planning: 4 contact hours plus travel and coordination."
+      ],
+      [
+        "OT time per programme",
+        "11.50 h",
+        "Planning: 6 contact hours plus travel and coordination."
+      ],
+      [
+        "Patient contact per programme",
+        "10 h",
+        "Protocol contact schedule, 4 nursing + 6 OT hours; enquiry additional."
+      ],
+      [
+        "Targeted support enquiry",
+        "5 min/person",
+        "Planning assumption for ranking information, not a formal disability assessment."
+      ],
+      [
+        "Extra rural travel",
+        "0.50 h/visit",
+        "Planning scenario, separately applied to four nursing and six OT visits."
+      ],
+      [
+        "Annual industry wage reference",
+        "143,173 CNY/year",
+        "NBS wage table: 2024 health and social work value [4]; not occupation-specific wages."
+      ],
+      [
+        "Employer cost factor",
+        "1.25 multiplier",
+        "Planning assumption; not an official conversion rule."
+      ],
+      [
+        "Productive work time",
+        "1,600 h/year",
+        "Planning assumption."
+      ],
+      [
+        "Home adaptation and implementation",
+        "5,500 CNY/programme",
+        "CNY5,000 policy-anchored adaptation ceiling [5] + CNY500 implementation planning allowance; not a Chinese CAPABLE quotation."
+      ],
+      [
+        "2024 average exchange rate",
+        "7.1217 CNY/US$",
+        "NBS 2024 statistical communiqué [6]; converted once."
+      ],
+      [
+        "Professional hourly reference",
+        "15.70607 2024 US$/h",
+        "143,173 × 1.25 ÷ 1,600 ÷ 7.1217; common planning proxy, not interchangeable staff."
+      ],
+      [
+        "Complete programme cost",
+        "1,078.56 2024 US$",
+        "19.5 professional hours × hourly reference + 5,500 ÷ 7.1217."
+      ],
+      [
+        "Reference nursing ceiling",
+        "4,000 h/1,000",
+        "500 complete programmes × 8 h; planning resource ceiling."
+      ],
+      [
+        "Reference OT ceiling",
+        "5,750 h/1,000",
+        "500 complete programmes × 11.5 h; planning resource ceiling."
+      ],
+      [
+        "Reference budget ceiling",
+        "539,277.92 2024 US$/1,000",
+        "500 × unrounded complete-programme cost."
+      ]
+    ],
+    "note": "All monetary outcomes are 2024 US$. Full-precision parameters and inherited sources accompany the electronic tables. The CNY5,500 bundle combines adaptation and implementation, not adaptation alone. Enquiry is added separately. No new prices, clinical effects, inflation adjustments or currency conversions were introduced. References [1,2,4–6] appear at the start of this appendix.",
+    "widths": [
+      5.0,
+      4.1,
+      8.9
+    ]
+  },
+  "TableS3": {
+    "title": "Functional and family profiles of gainers and displaced candidates at equal 500 places",
+    "headers": [
+      "Characteristic",
+      "Gaining allocation",
+      "Losing allocation"
+    ],
+    "rows": [
+      [
+        "Weighted exchanged opportunities",
+        "17.40 (5.68 to 21.94)",
+        "17.40 (5.68 to 21.94)"
+      ],
+      [
+        "Age (years)",
+        "69.43 (67.51 to 72.54)",
+        "72.85 (68.22 to 75.39)"
+      ],
+      [
+        "Basic ADL index",
+        "1.00 (1.00 to 1.00)",
+        "1.00 (1.00 to 1.00)"
+      ],
+      [
+        "IADL index",
+        "2.98 (2.36 to 5.44)",
+        "6.76 (3.65 to 11.02)"
+      ],
+      [
+        "Explicit assistance gap (%)",
+        "100.00 (100.00 to 100.00)",
+        "0.00 (0.00 to 0.00)"
+      ],
+      [
+        "Reports family help (%)",
+        "27.22 (9.04 to 60.13)",
+        "100.00 (83.33 to 100.00)"
+      ],
+      [
+        "Rural residence (%)",
+        "67.88 (51.51 to 86.24)",
+        "66.85 (35.17 to 84.28)"
+      ],
+      [
+        "Recorded family help (h/month)",
+        "151.09 (30.52 to 505.97)",
+        "Withheld"
+      ],
+      [
+        "Dressing needs help / unable (%)",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Bathing needs help / unable (%)",
+        "0.00 (0.00 to 0.00)",
+        "0.00 (0.00 to 0.00)"
+      ],
+      [
+        "Eating needs help / unable (%)",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Bed transfer needs help / unable (%)",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Toileting needs help / unable (%)",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Housework needs help / unable (%)",
+        "49.55 (33.92 to 70.73)",
+        "54.48 (21.88 to 97.31)"
+      ],
+      [
+        "Meal preparation needs help / unable (%)",
+        "Withheld",
+        "51.55 (15.61 to 93.64)"
+      ],
+      [
+        "Shopping needs help / unable (%)",
+        "Withheld",
+        "43.07 (17.07 to 95.23)"
+      ],
+      [
+        "Managing finances needs help / unable (%)",
+        "31.05 (16.81 to 50.90)",
+        "60.23 (13.83 to 94.11)"
+      ],
+      [
+        "Taking medication needs help / unable (%)",
+        "Withheld",
+        "Withheld"
+      ]
+    ],
+    "note": "The 53 gaining and 49 losing source records contribute changes in allocation probability, not simple participant averages. Each side represents 17.40 weighted opportunities per 1,000 original candidates. Profiles and CIs are weighted by allocation-probability changes. All released intervals use 5,000 valid paired community draws except recorded family-help hours for gaining records (4,974). Withheld cells and protected valid-draw counts remain undisclosed. Family-help hours are recorded assistance, not estimated time savings.",
+    "widths": [
+      8,
+      5,
+      5
+    ]
+  },
+  "TableS4": {
+    "title": "Paired allocation differences across nine capacity scenarios",
+    "headers": [
+      "Comparison",
+      "Capacity",
+      "Δ Programmes\n(95% CI)",
+      "Δ Gap allocations\n(95% CI)",
+      "Δ Covered IADL\n(95% CI)",
+      "Δ Family-help allocations\n(95% CI)"
+    ],
+    "rows": [
+      [
+        "Equal places",
+        "100",
+        "0",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Equal places",
+        "200",
+        "0",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Equal places",
+        "300",
+        "0",
+        "8.79 (0.14 to 18.21)",
+        "−68.01 (−151.19 to 0.00)",
+        "Withheld"
+      ],
+      [
+        "Equal places",
+        "400",
+        "0",
+        "5.99 (0.00 to 7.27)",
+        "−25.81 (−29.65 to 0.00)",
+        "Withheld"
+      ],
+      [
+        "Equal places",
+        "500",
+        "0",
+        "17.40 (5.68 to 21.94)",
+        "−65.77 (−109.77 to −10.22)",
+        "−12.67 (−16.43 to −2.25)"
+      ],
+      [
+        "Equal places",
+        "600",
+        "0",
+        "28.83 (14.72 to 34.65)",
+        "−133.78 (−186.78 to −43.33)",
+        "−12.71 (−17.98 to −4.21)"
+      ],
+      [
+        "Equal places",
+        "700",
+        "0",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Equal places",
+        "800",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "Equal places",
+        "900",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "Fixed resources",
+        "100",
+        "−1.00 (−1.00 to −1.00)",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Fixed resources",
+        "200",
+        "−1.00 (−1.00 to −1.00)",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Fixed resources",
+        "300",
+        "−1.00 (−1.00 to −1.00)",
+        "7.79 (−0.03 to 17.92)",
+        "−70.78 (−156.39 to 0.00)",
+        "Withheld"
+      ],
+      [
+        "Fixed resources",
+        "400",
+        "−1.00 (−1.00 to −1.00)",
+        "4.99 (−0.36 to 6.85)",
+        "−28.81 (−36.35 to −2.83)",
+        "Withheld"
+      ],
+      [
+        "Fixed resources",
+        "500",
+        "−1.00 (−2.00 to −1.00)",
+        "17.40 (4.55 to 21.73)",
+        "−73.77 (−118.61 to −15.82)",
+        "−13.67 (−17.69 to −2.88)"
+      ],
+      [
+        "Fixed resources",
+        "600",
+        "−2.00 (−2.00 to −2.00)",
+        "28.83 (12.75 to 34.32)",
+        "−158.25 (−205.82 to −59.32)",
+        "−14.71 (−19.83 to −5.46)"
+      ],
+      [
+        "Fixed resources",
+        "700",
+        "−2.00 (−2.00 to 0.00)",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Fixed resources",
+        "800",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "Fixed resources",
+        "900",
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "note": "S1 minus S0, per 1,000 original candidates; 5,000 paired community draws. Equal places assumes information already known; fixed resources charges targeted enquiry to the corresponding capacity ceilings. Structural zeros are shown as 0. Protected cells are withheld, not zero. The IADL difference is an index total, not patient deterioration. Figure 2 reverses its sign to show the need-coverage loss.",
+    "widths": [
+      2.4,
+      1.7,
+      3.0,
+      3.6,
+      3.7,
+      3.6
+    ]
+  },
+  "TableS5": {
+    "title": "Information acquisition, rural constraints and expansion requirements",
+    "headers": [
+      "Scenario/comparison",
+      "Outcome (unit)",
+      "Reference total",
+      "Alternative total",
+      "Difference (95% CI)"
+    ],
+    "rows": [
+      [
+        "Equal 500; targeted vs universal",
+        "Nursing enquiry (h)",
+        "83.33",
+        "7.39",
+        "−75.94 (−77.15 to −74.70)"
+      ],
+      [
+        "Equal 500; targeted vs universal",
+        "Provider cost (US$)",
+        "540,586.76",
+        "539,394.04",
+        "−1,192.73 (−1,211.76 to −1,173.30)"
+      ],
+      [
+        "Equal 500; targeted vs universal",
+        "Patient participation (h)",
+        "5,083.33",
+        "5,007.39",
+        "−75.94 (−77.15 to −74.70)"
+      ],
+      [
+        "Fixed resources; targeted vs universal",
+        "Complete programmes",
+        "489.00",
+        "499.00",
+        "10.00 (9.00 to 10.00)"
+      ],
+      [
+        "Fixed resources; targeted vs universal",
+        "Nursing enquiry (h)",
+        "83.33",
+        "7.39",
+        "−75.94 (−77.17 to −74.70)"
+      ],
+      [
+        "Fixed resources; targeted vs universal",
+        "Occupational therapy (h)",
+        "5,623.50",
+        "5,738.50",
+        "115.00 (103.50 to 115.00)"
+      ],
+      [
+        "Fixed resources; targeted vs universal",
+        "Patient participation (h)",
+        "4,973.33",
+        "4,997.39",
+        "24.06 (14.73 to 24.61)"
+      ],
+      [
+        "Fixed resources; targeted vs universal",
+        "Provider cost (US$)",
+        "528,722.65",
+        "538,315.48",
+        "9,592.83 (8,524.85 to 9,601.43)"
+      ],
+      [
+        "Extra rural travel; S1 vs S0",
+        "Complete programmes",
+        "437.00",
+        "436.00",
+        "−1.00 (−2.00 to 0.00)"
+      ],
+      [
+        "Extra rural travel; S1 vs S0",
+        "Gap allocations",
+        "158.72",
+        "170.24",
+        "11.51 (0.20 to 12.87)"
+      ],
+      [
+        "Extra rural travel; S1 vs S0",
+        "Covered IADL (index units)",
+        "3,504.15",
+        "3,440.46",
+        "−63.69 (−69.99 to 0.00)"
+      ],
+      [
+        "Extra rural travel; S1 vs S0",
+        "Family-help allocations",
+        "389.88",
+        "380.79",
+        "−9.09 (−11.25 to 0.00)"
+      ],
+      [
+        "Extra rural travel; S1 vs S0",
+        "Rural allocations",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "No displacement; original S0 reference",
+        "Complete programmes",
+        "500.00",
+        "517.40",
+        "17.40 (5.68 to 21.94)"
+      ],
+      [
+        "No displacement; original S0 reference",
+        "Nursing time (h)",
+        "4,000.00",
+        "4,146.62",
+        "146.62 (52.62 to 183.26)"
+      ],
+      [
+        "No displacement; original S0 reference",
+        "Occupational therapy (h)",
+        "5,750.00",
+        "5,950.14",
+        "200.14 (65.27 to 252.28)"
+      ],
+      [
+        "No displacement; original S0 reference",
+        "Provider cost (US$)",
+        "539,277.92",
+        "558,165.04",
+        "18,887.12 (6,233.49 to 23,790.70)"
+      ],
+      [
+        "Restore rural S1 500; original ceilings",
+        "Nursing time (h)",
+        "4,000.00",
+        "4,571.02",
+        "571.02 (506.62 to 632.62)"
+      ],
+      [
+        "Restore rural S1 500; original ceilings",
+        "Occupational therapy (h)",
+        "5,750.00",
+        "6,595.44",
+        "845.44 (748.80 to 937.67)"
+      ],
+      [
+        "Restore rural S1 500; original ceilings",
+        "Provider cost (US$)",
+        "539,277.92",
+        "561,524.88",
+        "22,246.96 (19,721.98 to 24,657.10)"
+      ]
+    ],
+    "note": "Per 1,000 original candidates; costs are 2024 US$. Enquiry rows compare S1 targeted (alternative) with universal (reference) enquiry; rural fixed-resource rows compare S1 with S0. No-displacement expansion retains original S0 opportunities and adds complete programmes. Rural restoration compares S1 resources for 500 programmes with the original ceilings, NOT rural S1 with S0. Totals add stored increments to unrounded constants; intervals are the original paired increments (or the stored package-total interval translated by 500). Rural travel adds 0.5 h to each of four nursing and six OT visits. OT binds the next-programme step in all 5,000 community and county draws; RN also binds in two county draws for S1. Money alone cannot replace staff time.",
+    "widths": [
+      4.1,
+      3.6,
+      2.6,
+      2.9,
+      4.8
+    ]
+  },
+  "TableS6": {
+    "title": "Reallocation after reassessment of needs in 2020",
+    "headers": [
+      "Capacity or comparison",
+      "Outcome",
+      "Reference",
+      "Alternative",
+      "Paired difference\n(95% CI)"
+    ],
+    "rows": [
+      [
+        "500 programmes",
+        "Gap allocations",
+        "97.38",
+        "97.38",
+        "0"
+      ],
+      [
+        "500 programmes",
+        "Covered IADL (index units)",
+        "3,127.77",
+        "3,127.77",
+        "0"
+      ],
+      [
+        "Original 500-resource ceilings",
+        "Gap allocations",
+        "97.38",
+        "97.38",
+        "0"
+      ],
+      [
+        "Original 500-resource ceilings",
+        "Covered IADL (index units)",
+        "3,127.77",
+        "3,127.77",
+        "0"
+      ],
+      [
+        "Half current eligibility (278.58)",
+        "Gap allocations",
+        "70.19",
+        "73.95",
+        "3.76 (0.00 to 6.02)"
+      ],
+      [
+        "Half current eligibility (278.58)",
+        "Covered IADL (index units)",
+        "2,418.22",
+        "2,404.43",
+        "−13.79 (−26.40 to 0.00)"
+      ],
+      [
+        "Updated vs frozen function; 500",
+        "Gap allocations",
+        "90.43",
+        "97.38",
+        "6.95 (2.88 to 14.38)"
+      ],
+      [
+        "Updated vs frozen function; 500",
+        "Covered IADL (index units)",
+        "3,025.06",
+        "3,127.77",
+        "102.71 (46.86 to 180.91)"
+      ]
+    ],
+    "note": "Per 1,000 original 2018 candidates. The same 1,386 observable eligible participants represent 557.16 original opportunities; half is 278.58, not 500. Reference and alternative are S0 and S1 except the explicitly labelled updating rows, which compare frozen 2018 with updated 2020 functional priority. No failures or capacity shortfalls occurred in the original 5,000 community or county resamples of these contrasts. Unknown qualification is not absence of need. Current-eligibility compatibility bounds are 557.16–632.45; they are not CIs. This is natural reassessment, not a programme treatment effect.",
+    "widths": [
+      4.5,
+      4.0,
+      2.5,
+      2.5,
+      4.5
+    ]
+  },
+  "TableS7": {
+    "title": "Age, enquiry duration and clustering sensitivities",
+    "headers": [
+      "Sensitivity",
+      "Outcome",
+      "S0",
+      "S1",
+      "S1 − S0\n(95% CI)"
+    ],
+    "rows": [
+      [
+        "Age ≥65; 500 original-scale places",
+        "Complete programmes",
+        "500.00",
+        "500.00",
+        "0"
+      ],
+      [
+        "Age ≥65; 500 original-scale places",
+        "Gap allocations",
+        "173.08",
+        "196.86",
+        "23.77 (3.05 to 30.65)"
+      ],
+      [
+        "Age ≥65; 500 original-scale places",
+        "Covered IADL (index units)",
+        "3,897.21",
+        "3,759.85",
+        "−137.36 (−171.82 to −5.10)"
+      ],
+      [
+        "Age ≥65; 50% of subgroup",
+        "Complete programmes",
+        "409.56",
+        "409.56",
+        "0"
+      ],
+      [
+        "Age ≥65; 50% of subgroup",
+        "Gap allocations",
+        "152.69",
+        "159.31",
+        "6.62 (0.20 to 16.72)"
+      ],
+      [
+        "Age ≥65; 50% of subgroup",
+        "Covered IADL (index units)",
+        "3,299.50",
+        "3,260.82",
+        "−38.68 (−89.72 to 0.00)"
+      ],
+      [
+        "Three-minute targeted enquiry",
+        "Complete programmes",
+        "500.00",
+        "499.00",
+        "−1.00 (−1.00 to −1.00)"
+      ],
+      [
+        "Three-minute targeted enquiry",
+        "Gap allocations",
+        "176.71",
+        "194.12",
+        "17.40 (4.76 to 21.79)"
+      ],
+      [
+        "Three-minute targeted enquiry",
+        "Covered IADL (index units)",
+        "3,905.02",
+        "3,831.25",
+        "−73.77 (−116.34 to −15.68)"
+      ],
+      [
+        "Ten-minute targeted enquiry",
+        "Complete programmes",
+        "500.00",
+        "498.00",
+        "−2.00 (−3.00 to −2.00)"
+      ],
+      [
+        "Ten-minute targeted enquiry",
+        "Gap allocations",
+        "176.71",
+        "194.12",
+        "17.40 (3.56 to 21.54)"
+      ],
+      [
+        "Ten-minute targeted enquiry",
+        "Covered IADL (index units)",
+        "3,905.02",
+        "3,823.14",
+        "−81.88 (−125.63 to −21.45)"
+      ],
+      [
+        "County resampling; equal 500",
+        "Gap allocations",
+        "176.71",
+        "194.12",
+        "17.40 (5.99 to 21.81)"
+      ],
+      [
+        "County resampling; equal 500",
+        "Covered IADL (index units)",
+        "3,905.02",
+        "3,839.25",
+        "−65.77 (−108.58 to −10.72)"
+      ],
+      [
+        "County resampling; equal 500",
+        "Family-help allocations",
+        "443.16",
+        "430.50",
+        "−12.67 (−16.41 to −2.29)"
+      ],
+      [
+        "Family 0 h/programme; 50% enquiry accompaniment",
+        "Family participation (h)",
+        "0",
+        "3.70",
+        "3.70 (3.08 to 4.31)"
+      ],
+      [
+        "Family 5 h/programme; 50% enquiry accompaniment",
+        "Family participation (h)",
+        "2,500.00",
+        "2,498.70",
+        "−1.30 (−5.97 to −1.03)"
+      ],
+      [
+        "Family 10 h/programme; 50% enquiry accompaniment",
+        "Family participation (h)",
+        "5,000.00",
+        "4,993.70",
+        "−6.30 (−15.97 to −6.03)"
+      ]
+    ],
+    "note": "Per 1,000 original candidates. The ≥65 subgroup has 1,935 participants and weighted mass 819.12; its own 50% capacity is 409.56. It is not renormalised to 1,000. Enquiry-duration rows retain original resource ceilings and S1 ordering. County intervals use the same point estimates and separate 5,000 paired county draws. Family participation scenarios of 0, 5 and 10 hours per programme and 0%, 50% and 100% enquiry accompaniment are supplied in FAMILY_PARTICIPATION_CURRENT.csv; none are caregiver-time savings.",
+    "widths": [
+      4.5,
+      4.0,
+      2.5,
+      2.5,
+      4.5
+    ]
+  }
+}

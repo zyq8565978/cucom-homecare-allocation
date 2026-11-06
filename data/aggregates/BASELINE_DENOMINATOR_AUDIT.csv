@@ -1,0 +1,41 @@
+﻿domain,key,domain_n,n_valid,n_missing,weight_sum,reconciles_to_domain,definition,disclosure
+Overall,age,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,men,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,women,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,urban,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,rural,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,below_primary,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,primary,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,secondary,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,married_partnered,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,living_alone,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,chronic,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,B,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,I,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,tier3,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,tier2,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,tier1,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,tier0,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,family,2433,2433,0,75990137.8536433,True,Positive confirmed report among all domain members; no-help status not inferred,RELEASED
+Overall,gap,2433,2433,0,75990137.8536433,True,Available-case original survey-weighted domain description,RELEASED
+Overall,underlying_helper_roster,2433,1705,728,54986966.9407949,True,Observed full helper roster; structural non-entry and incomplete roster are not no help; separate from the confirmed-report numerator,RELEASED
+With assistance gaps,age,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,men,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,women,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,urban,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,rural,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,below_primary,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,primary,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,secondary,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,married_partnered,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,living_alone,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,chronic,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,B,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,I,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,tier3,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,tier2,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,tier1,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,tier0,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,family,564,564,0,17552775.567486,True,Positive confirmed report among all domain members; no-help status not inferred,RELEASED
+With assistance gaps,gap,564,564,0,17552775.567486,True,Available-case original survey-weighted domain description,RELEASED
+With assistance gaps,underlying_helper_roster,564,378,186,12059445.2672103,True,Observed full helper roster; structural non-entry and incomplete roster are not no help; separate from the confirmed-report numerator,RELEASED

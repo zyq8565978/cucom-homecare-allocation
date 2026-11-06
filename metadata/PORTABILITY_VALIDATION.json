@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "comparisons": 455,
+  "maximum_absolute_error": 2.9103830456733704e-10,
+  "capacity_point_scenarios": 27,
+  "followup_point_scenarios": 38,
+  "paired_draws_checked_per_design": 25,
+  "designs": 2,
+  "independent_tuple_allocation": true,
+  "unasked_answer_tests": true,
+  "statistical_estimates_changed": false,
+  "individual_records_exported": false
+}

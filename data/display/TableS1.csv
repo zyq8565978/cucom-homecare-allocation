@@ -1,0 +1,18 @@
+﻿Construct,Definition and source,Routing or interpretation
+Population,2018 interview; age ≥60; community dwelling; at least two reported chronic conditions; qualifying functional difficulty.,"Exact frozen 2,433 members; no selection using follow-up."
+Functional entry,At least one basic ADL difficulty or at least two IADL difficulties.,Ten activity responses resolved in the original cohort.
+Age and recorded sex,"Harmonized CHARLS r4agey and ragender; native codes 1 man, 2 woman. Age groups: 60–64, 65–69, 70–74, 75–79 and ≥80.","Matched to the same frozen records. Age groups are exhaustive and nonoverlapping; counts and weighted percentages use each column’s full denominator (2,433 or 564). No missing values."
+Education,"raeduc_c: 1–3 below completed primary (including traditional Sishu), 4 primary, 5–10 secondary or higher.",No missing values in this cohort; schooling group is descriptive.
+Residence,h4rural: urban community or rural village at the current interview.,"Current residence, not household registration (hukou); no missing values in either column."
+Marital status,"r4mstath codes 1, 2 or 3: reported married or cohabiting; original BE001/BE002.",Includes temporarily absent spouses; no implied partnership recoding. No missing values in either column.
+Living alone,h4hhres = 1; documented current coresident household roster.,Not inferred from widowhood or absence of a spouse. No missing values in either column.
+Chronic conditions,"Original count of 14 reported conditions, retaining verified diagnostic routes.","No new case definitions, imputation or selection."
+Basic ADL,"Dressing, bathing, eating, bed transfer and toileting; db010–db014.",Native 1 no difficulty; 2 difficulty but independent; 3 needs help; 4 unable.
+Instrumental ADL,"Housework, meal preparation, shopping, finances and medication; db016–db020.",Same four native categories; inability remains distinct.
+Need indices,"B and I each sum response minus 1 across five activities, range 0–15.","Ordinal need indices, not utility or formal disability grades."
+Structural skip,Verified negative basic-ADL screening may establish no difficulty.,Ordinary missing responses are not assigned zero difficulty.
+Explicit assistance gap,Code 3 or 4 plus explicit no help for that same activity.,A confirmed gap remains confirmed despite another unknown item.
+Unknown help,Needed-help answers incomplete without any confirmed gap.,Unknown is not no help; original function-first probability retained.
+Family assistance,Confirmed family-helper report from the functional-module roster; denominator is all members of the column.,"May coexist with a gap; non-confirmation is not absence of help. Full roster unobserved/incomplete in 728 overall and 186 gap-subgroup records, including structural non-entry."
+Nested subgroup and summaries,"gap_known = 1 identifies exactly 564 of the original 2,433 participants. Original INDV_weight_ad2; descriptive SD and inverse weighted empirical quartiles.","Each column uses its own weighted denominator. No p values, SMDs, complete-case selection or imputation. All displayed indicators have defined values; roster availability is distinguished above."
+Follow-up,Same-person 2018–2020 link and current activity/help measurements.,"Death, unresolved qualification and measured non-entry remain separate."

@@ -1,0 +1,21 @@
+﻿Scenario/comparison,Outcome (unit),Reference total,Alternative total,Difference (95% CI)
+Equal 500; targeted vs universal,Nursing enquiry (h),83.33,7.39,−75.94 (−77.15 to −74.70)
+Equal 500; targeted vs universal,Provider cost (US$),"540,586.76","539,394.04","−1,192.73 (−1,211.76 to −1,173.30)"
+Equal 500; targeted vs universal,Patient participation (h),"5,083.33","5,007.39",−75.94 (−77.15 to −74.70)
+Fixed resources; targeted vs universal,Complete programmes,489.00,499.00,10.00 (9.00 to 10.00)
+Fixed resources; targeted vs universal,Nursing enquiry (h),83.33,7.39,−75.94 (−77.17 to −74.70)
+Fixed resources; targeted vs universal,Occupational therapy (h),"5,623.50","5,738.50",115.00 (103.50 to 115.00)
+Fixed resources; targeted vs universal,Patient participation (h),"4,973.33","4,997.39",24.06 (14.73 to 24.61)
+Fixed resources; targeted vs universal,Provider cost (US$),"528,722.65","538,315.48","9,592.83 (8,524.85 to 9,601.43)"
+Extra rural travel; S1 vs S0,Complete programmes,437.00,436.00,−1.00 (−2.00 to 0.00)
+Extra rural travel; S1 vs S0,Gap allocations,158.72,170.24,11.51 (0.20 to 12.87)
+Extra rural travel; S1 vs S0,Covered IADL (index units),"3,504.15","3,440.46",−63.69 (−69.99 to 0.00)
+Extra rural travel; S1 vs S0,Family-help allocations,389.88,380.79,−9.09 (−11.25 to 0.00)
+Extra rural travel; S1 vs S0,Rural allocations,Withheld,Withheld,Withheld
+No displacement; original S0 reference,Complete programmes,500.00,517.40,17.40 (5.68 to 21.94)
+No displacement; original S0 reference,Nursing time (h),"4,000.00","4,146.62",146.62 (52.62 to 183.26)
+No displacement; original S0 reference,Occupational therapy (h),"5,750.00","5,950.14",200.14 (65.27 to 252.28)
+No displacement; original S0 reference,Provider cost (US$),"539,277.92","558,165.04","18,887.12 (6,233.49 to 23,790.70)"
+Restore rural S1 500; original ceilings,Nursing time (h),"4,000.00","4,571.02",571.02 (506.62 to 632.62)
+Restore rural S1 500; original ceilings,Occupational therapy (h),"5,750.00","6,595.44",845.44 (748.80 to 937.67)
+Restore rural S1 500; original ceilings,Provider cost (US$),"539,277.92","561,524.88","22,246.96 (19,721.98 to 24,657.10)"

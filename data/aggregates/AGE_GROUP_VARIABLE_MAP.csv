@@ -1,0 +1,6 @@
+key,source_age,source_weight,rule,denominator,missing_rule
+age60_64,F08915:r4agey,F08896:INDV_weight_ad2,60 <= age < 65,Each original descriptive domain separately,No missing ages; no imputation
+age65_69,F08915:r4agey,F08896:INDV_weight_ad2,65 <= age < 70,Each original descriptive domain separately,No missing ages; no imputation
+age70_74,F08915:r4agey,F08896:INDV_weight_ad2,70 <= age < 75,Each original descriptive domain separately,No missing ages; no imputation
+age75_79,F08915:r4agey,F08896:INDV_weight_ad2,75 <= age < 80,Each original descriptive domain separately,No missing ages; no imputation
+age80plus,F08915:r4agey,F08896:INDV_weight_ad2,age >= 80,Each original descriptive domain separately,No missing ages; no imputation

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "numeric_checks": 102,
+  "maximum_absolute_error": 0.0,
+  "same_overall_and_nested_group_keys": true,
+  "overall_n": 2433,
+  "assistance_gap_n": 564,
+  "individual_records_exported": false,
+  "scope": "Recomputed descriptive cells against frozen public summaries; no allocation or inferential change"
+}

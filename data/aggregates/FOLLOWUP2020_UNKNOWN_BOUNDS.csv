@@ -1,0 +1,3 @@
+﻿quantity,lower,upper,meaning
+explicit_need_among_original1000,414.554853722248,485.068448104854,Unknown life/function may contribute zero or one need; known death excluded
+current_operational_eligibility_mass,557.163088528962,632.44930380625,Qualification bounds only; no invented activity rankings or assistance answers

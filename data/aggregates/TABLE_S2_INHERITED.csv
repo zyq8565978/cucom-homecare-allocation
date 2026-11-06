@@ -1,0 +1,10 @@
+﻿Capacity,Boundary tier,"Gap change, equal (95% CI)","I change, equal (95% CI)","Family change, equal (95% CI)",S1 fixed packages,Paid equal query RN h,No-displacement packages,Expansion extra 2024 US$
+100,Basic unable,Withheld,Withheld,Withheld,99,0.95,Withheld,Withheld
+200,Basic help,Withheld,Withheld,Withheld,199,1.85,Withheld,Withheld
+300,Basic help,"8.79 (0.14, 18.21)","-68.01 (-151.19, 0.00)",Withheld,299,6.20,308.79,"9,578.92"
+400,IADL help only,"5.99 (0.00, 7.27)","-25.81 (-29.65, 0.00)",Withheld,399,2.22,405.99,"6,500.66"
+500,IADL help only,"17.40 (5.68, 21.94)","-65.77 (-109.77, -10.22)","-12.67 (-16.43, -2.25)",499,7.39,517.40,"18,887.12"
+600,IADL help only,"28.83 (14.72, 34.65)","-133.78 (-186.78, -43.33)","-12.71 (-17.98, -4.21)",598,13.06,628.83,"31,304.21"
+700,IADL help only,Withheld,Withheld,Withheld,698,13.06,Withheld,Withheld
+800,Other difficulty,"0.00 (0.00, 0.00)","0.00 (0.00, 0.00)","0.00 (0.00, 0.00)",800,0.00,800.00,0.00
+900,Other difficulty,"0.00 (0.00, 0.00)","0.00 (0.00, 0.00)","0.00 (0.00, 0.00)",900,0.00,900.00,0.00

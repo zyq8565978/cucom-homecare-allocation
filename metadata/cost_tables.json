@@ -1,0 +1,234 @@
+{
+  "TableS2": {
+    "title": "Complete programme and implementation inputs",
+    "headers": [
+      "Input",
+      "Reference value",
+      "Source and interpretation"
+    ],
+    "rows": [
+      [
+        "Programme duration",
+        "5.00 months",
+        "2019 CAPABLE trial [2]; service reference"
+      ],
+      [
+        "Nursing home visits",
+        "4.00 visits",
+        "CAPABLE protocol [1]; up to this number"
+      ],
+      [
+        "Occupational therapy home visits",
+        "6.00 visits",
+        "CAPABLE protocol [1]; up to this number"
+      ],
+      [
+        "Nursing time per complete programme",
+        "8.00 h",
+        "Implementation planning assumption"
+      ],
+      [
+        "Occupational therapy time per programme",
+        "11.50 h",
+        "Implementation planning assumption"
+      ],
+      [
+        "Patient contact per programme",
+        "10.00 h",
+        "Implementation planning assumption"
+      ],
+      [
+        "Additional support enquiry",
+        "5.00 min/person",
+        "Ranking-information scenario, not formal assessment"
+      ],
+      [
+        "Additional travel per rural home visit",
+        "0.50 h",
+        "Rural planning sensitivity"
+      ],
+      [
+        "Complete programme cost",
+        "US$1,078.56",
+        "Inherited labour and home-adaptation ledger"
+      ],
+      [
+        "Hourly labour reference",
+        "US$15.71/h",
+        "2024 industry wage plus planning multipliers"
+      ],
+      [
+        "Currency conversion",
+        "7.1217 CNY/US$",
+        "2024 average exchange rate"
+      ],
+      [
+        "Nursing ceiling at reference capacity",
+        "4,000.00 h",
+        "Original 500-programme resource plan"
+      ],
+      [
+        "Occupational therapy ceiling",
+        "5,750.00 h",
+        "Original 500-programme resource plan"
+      ],
+      [
+        "Provider budget ceiling",
+        "US$539,277.92",
+        "Original 500-programme resource plan"
+      ]
+    ],
+    "note": "All costs are in 2024 US$. The programme aims to strengthen function, not replace ongoing personal assistance. Hours and costs are planning inputs, not newly observed clinical task times. The common labour price is not an assertion of equal occupation-specific wages. Individual suitability requires clinical assessment.",
+    "widths": [
+      6.6,
+      3.4,
+      7
+    ]
+  },
+  "TableS3": {
+    "title": "Functional and family profiles of gainers and displaced candidates at equal 500 places",
+    "headers": [
+      "Characteristic",
+      "Gainers\nEstimate (95% CI)",
+      "Valid\ndraws",
+      "Displaced\nEstimate (95% CI)",
+      "Valid\ndraws"
+    ],
+    "rows": [
+      [
+        "Weighted exchanged opportunities",
+        "17.40 (5.68 to 21.94)",
+        "5,000",
+        "17.40 (5.68 to 21.94)",
+        "5,000"
+      ],
+      [
+        "Age (years)",
+        "69.43 (67.51 to 72.54)",
+        "5,000",
+        "72.85 (68.22 to 75.39)",
+        "5,000"
+      ],
+      [
+        "Basic ADL index",
+        "1.00 (1.00 to 1.00)",
+        "5,000",
+        "1.00 (1.00 to 1.00)",
+        "5,000"
+      ],
+      [
+        "IADL index",
+        "2.98 (2.36 to 5.44)",
+        "5,000",
+        "6.76 (3.65 to 11.02)",
+        "5,000"
+      ],
+      [
+        "Explicit assistance gap (%)",
+        "100.00 (100.00 to 100.00)",
+        "5,000",
+        "0.00 (0.00 to 0.00)",
+        "5,000"
+      ],
+      [
+        "Reports family help (%)",
+        "27.22 (9.04 to 60.13)",
+        "5,000",
+        "100.00 (83.33 to 100.00)",
+        "5,000"
+      ],
+      [
+        "Rural residence (%)",
+        "67.88 (51.51 to 86.24)",
+        "5,000",
+        "66.85 (35.17 to 84.28)",
+        "5,000"
+      ],
+      [
+        "Recorded family help (h/month)",
+        "151.09 (30.52 to 505.97)",
+        "4,974",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Dressing needs help / unable (%)",
+        "Withheld",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Bathing needs help / unable (%)",
+        "0.00 (0.00 to 0.00)",
+        "5,000",
+        "0.00 (0.00 to 0.00)",
+        "5,000"
+      ],
+      [
+        "Eating needs help / unable (%)",
+        "Withheld",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Bed transfer needs help / unable (%)",
+        "Withheld",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Toileting needs help / unable (%)",
+        "Withheld",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ],
+      [
+        "Housework needs help / unable (%)",
+        "49.55 (33.92 to 70.73)",
+        "5,000",
+        "54.48 (21.88 to 97.31)",
+        "5,000"
+      ],
+      [
+        "Meal preparation needs help / unable (%)",
+        "Withheld",
+        "Withheld",
+        "51.55 (15.61 to 93.64)",
+        "5,000"
+      ],
+      [
+        "Shopping needs help / unable (%)",
+        "Withheld",
+        "Withheld",
+        "43.07 (17.07 to 95.23)",
+        "5,000"
+      ],
+      [
+        "Managing finances needs help / unable (%)",
+        "31.05 (16.81 to 50.90)",
+        "5,000",
+        "60.23 (13.83 to 94.11)",
+        "5,000"
+      ],
+      [
+        "Taking medication needs help / unable (%)",
+        "Withheld",
+        "Withheld",
+        "Withheld",
+        "Withheld"
+      ]
+    ],
+    "note": "Gainers and displaced groups contribute 53 and 49 source records, respectively; profiles are weighted by changes in allocation probability. Withheld cells remain protected, including recoverable complements. Valid draws are out of 5,000; undefined group means are not adverse draws removed from policy comparisons. Current family-help hours are descriptive and may overlap, not hours saved by treatment.",
+    "widths": [
+      5.7,
+      4.3,
+      1.8,
+      4.3,
+      1.8
+    ]
+  }
+}

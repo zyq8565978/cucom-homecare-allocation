@@ -1,0 +1,13 @@
+﻿design,policy,resource,point_next_package_violates,replicates_next_package_violates,attempted,interpretation
+community_WR,S0-R,RN,False,0,5000,next integer package under the same paid inquiry protocol; not posterior probability
+community_WR,S0-R,OT,True,5000,5000,next integer package under the same paid inquiry protocol; not posterior probability
+community_WR,S0-R,budget,False,0,5000,next integer package under the same paid inquiry protocol; not posterior probability
+community_WR,S1-R,RN,False,0,5000,next integer package under the same paid inquiry protocol; not posterior probability
+community_WR,S1-R,OT,True,5000,5000,next integer package under the same paid inquiry protocol; not posterior probability
+community_WR,S1-R,budget,False,0,5000,next integer package under the same paid inquiry protocol; not posterior probability
+county_WR,S0-R,RN,False,0,5000,next integer package under the same paid inquiry protocol; not posterior probability
+county_WR,S0-R,OT,True,5000,5000,next integer package under the same paid inquiry protocol; not posterior probability
+county_WR,S0-R,budget,False,0,5000,next integer package under the same paid inquiry protocol; not posterior probability
+county_WR,S1-R,RN,False,2,5000,next integer package under the same paid inquiry protocol; not posterior probability
+county_WR,S1-R,OT,True,5000,5000,next integer package under the same paid inquiry protocol; not posterior probability
+county_WR,S1-R,budget,False,0,5000,next integer package under the same paid inquiry protocol; not posterior probability

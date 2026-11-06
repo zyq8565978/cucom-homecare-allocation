@@ -1,0 +1,451 @@
+﻿scenario,policy,metric,estimate,requested_capacity,denominator,status,unit
+2018_equal500,S0-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_equal500,S1-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_equal500,paired_difference,packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_equal500,S0-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_equal500,S1-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_equal500,paired_difference,eligible_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_equal500,S0-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,gap_population,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,gap_reached,176.711416232349,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_equal500,S1-R,gap_reached,194.115247363046,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_equal500,paired_difference,gap_reached,17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_equal500,S0-R,gap_unserved,54.2761311424504,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,gap_unserved,36.8723000117532,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,gap_unserved,-17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,eligible_unserved,-5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,B_total,2441.83783463132,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_equal500,S1-R,B_total,2441.83783463133,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_equal500,paired_difference,B_total,4.54747350886464e-13,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_equal500,S0-R,I_total,3905.02401491779,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_equal500,S1-R,I_total,3839.25040623358,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_equal500,paired_difference,I_total,-65.7736086842124,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_equal500,S0-R,family_reached,443.164168975105,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,family_reached,430.496985138252,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,family_reached,-12.6671838368525,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,rural_reached,281.63188709168,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,rural_reached,281.81263551713,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,rural_reached,0.180748425449508,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S1-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,paired_difference,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S0-R,RN_h,4000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S1-R,RN_h,4000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,paired_difference,RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S0-R,OT_h,5750,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S1-R,OT_h,5750,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,paired_difference,OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S0-R,provider_USD,539277.923239887,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_equal500,S1-R,provider_USD,539277.923239887,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_equal500,paired_difference,provider_USD,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_equal500,S0-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S1-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,paired_difference,patient_contact_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S0-R,patient_total_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S1-R,patient_total_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,paired_difference,patient_total_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S0-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,tier1_packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,tier2_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,tier3_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,query_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S1-R,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,paired_difference,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_equal500,S0-R,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S1-R,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,paired_difference,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S0-R,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,S1-R,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_equal500,paired_difference,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S0-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_paid500,S1-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_paid500,paired_difference,packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_paid500,S0-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_paid500,S1-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_paid500,paired_difference,eligible_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_paid500,S0-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,gap_population,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,gap_reached,176.711416232349,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_paid500,S1-R,gap_reached,194.115247363046,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_paid500,paired_difference,gap_reached,17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_paid500,S0-R,gap_unserved,54.2761311424504,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,gap_unserved,36.8723000117532,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,gap_unserved,-17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,eligible_unserved,-5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,B_total,2441.83783463132,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_paid500,S1-R,B_total,2441.83783463133,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_paid500,paired_difference,B_total,4.54747350886464e-13,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_paid500,S0-R,I_total,3905.02401491779,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_paid500,S1-R,I_total,3839.25040623358,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_paid500,paired_difference,I_total,-65.7736086842124,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_paid500,S0-R,family_reached,443.164168975105,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,family_reached,430.496985138252,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,family_reached,-12.6671838368525,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,rural_reached,281.63188709168,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,rural_reached,281.81263551713,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,rural_reached,0.180748425449508,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S1-R,inquiry_h,7.39293069409281,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,paired_difference,inquiry_h,7.39293069409281,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S0-R,RN_h,4000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S1-R,RN_h,4007.39293069409,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,paired_difference,RN_h,7.39293069409268,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S0-R,OT_h,5750,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S1-R,OT_h,5750,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,paired_difference,OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S0-R,provider_USD,539277.923239887,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_paid500,S1-R,provider_USD,539394.037113929,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_paid500,paired_difference,provider_USD,116.11387404264,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_paid500,S0-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S1-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,paired_difference,patient_contact_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S0-R,patient_total_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S1-R,patient_total_h,5007.39293069409,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,paired_difference,patient_total_h,7.39293069409268,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S0-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,tier1_packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,tier2_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,tier3_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,query_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S1-R,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,paired_difference,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_paid500,S0-R,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S1-R,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,paired_difference,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S0-R,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,S1-R,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_paid500,paired_difference,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S0-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_fixed500,S1-R,packages,499,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_fixed500,paired_difference,packages,-0.999999999999943,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_fixed500,S0-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_fixed500,S1-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_fixed500,paired_difference,eligible_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_fixed500,S0-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,gap_population,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,gap_reached,176.711416232349,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_fixed500,S1-R,gap_reached,194.115247363046,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_fixed500,paired_difference,gap_reached,17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_fixed500,S0-R,gap_unserved,54.2761311424504,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,gap_unserved,36.8723000117532,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,gap_unserved,-17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,eligible_unserved,501,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,eligible_unserved,0.999999999999943,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,B_total,2441.83783463132,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_fixed500,S1-R,B_total,2440.83783463133,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_fixed500,paired_difference,B_total,-0.999999999999545,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_fixed500,S0-R,I_total,3905.02401491779,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_fixed500,S1-R,I_total,3831.25040623358,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_fixed500,paired_difference,I_total,-73.7736086842124,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_fixed500,S0-R,family_reached,443.164168975105,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,family_reached,429.496985138252,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,family_reached,-13.6671838368526,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,rural_reached,281.63188709168,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,rural_reached,280.943485342241,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,rural_reached,-0.688401749439549,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S1-R,inquiry_h,7.39293069409281,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,paired_difference,inquiry_h,7.39293069409281,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S0-R,RN_h,4000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S1-R,RN_h,3999.39293069409,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,paired_difference,RN_h,-0.607069305907316,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S0-R,OT_h,5750,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S1-R,OT_h,5738.5,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,paired_difference,OT_h,-11.5,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S0-R,provider_USD,539277.923239887,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_fixed500,S1-R,provider_USD,538315.48126745,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_fixed500,paired_difference,provider_USD,-962.441972437082,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_fixed500,S0-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S1-R,patient_contact_h,4990,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,paired_difference,patient_contact_h,-10,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S0-R,patient_total_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S1-R,patient_total_h,4997.39293069409,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,paired_difference,patient_total_h,-2.60706930590732,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S0-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,tier1_packages,134.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,tier1_packages,-0.999999999999915,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,tier2_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,tier3_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,query_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S1-R,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,paired_difference,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_fixed500,S0-R,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S1-R,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,paired_difference,travel_RN_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S0-R,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,S1-R,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_fixed500,paired_difference,travel_OT_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S0-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_equal500,S1-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_equal500,paired_difference,packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_equal500,S0-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_equal500,S1-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_equal500,paired_difference,eligible_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_equal500,S0-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,gap_population,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,gap_reached,176.711416232349,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_equal500,S1-R,gap_reached,194.115247363046,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_equal500,paired_difference,gap_reached,17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_equal500,S0-R,gap_unserved,54.2761311424504,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,gap_unserved,36.8723000117532,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,gap_unserved,-17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,eligible_unserved,-5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,B_total,2441.83783463132,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_equal500,S1-R,B_total,2441.83783463133,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_equal500,paired_difference,B_total,4.54747350886464e-13,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_equal500,S0-R,I_total,3905.02401491779,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_equal500,S1-R,I_total,3839.25040623358,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_equal500,paired_difference,I_total,-65.7736086842124,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_equal500,S0-R,family_reached,443.164168975105,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,family_reached,430.496985138252,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,family_reached,-12.6671838368525,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,rural_reached,281.63188709168,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,rural_reached,281.81263551713,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,rural_reached,0.180748425449508,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S1-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,paired_difference,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S0-R,RN_h,4563.26377418336,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S1-R,RN_h,4563.62527103426,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,paired_difference,RN_h,0.36149685089913,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S0-R,OT_h,6594.89566127504,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S1-R,OT_h,6595.43790655139,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,paired_difference,OT_h,0.542245276348694,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S0-R,provider_USD,561394.571438886,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_rural_equal500,S1-R,provider_USD,561408.765674417,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_rural_equal500,paired_difference,provider_USD,14.1942355302162,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_rural_equal500,S0-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S1-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,paired_difference,patient_contact_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S0-R,patient_total_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S1-R,patient_total_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,paired_difference,patient_total_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S0-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,tier1_packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,tier2_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,tier3_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,query_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S1-R,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,paired_difference,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_equal500,S0-R,travel_RN_h,563.263774183361,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S1-R,travel_RN_h,563.62527103426,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,paired_difference,travel_RN_h,0.361496850899016,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S0-R,travel_OT_h,844.895661275041,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,S1-R,travel_OT_h,845.43790655139,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_equal500,paired_difference,travel_OT_h,0.542245276348581,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S0-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_paid500,S1-R,packages,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_paid500,paired_difference,packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_paid500,S0-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_paid500,S1-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_paid500,paired_difference,eligible_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_paid500,S0-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,gap_population,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,gap_reached,176.711416232349,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_paid500,S1-R,gap_reached,194.115247363046,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_paid500,paired_difference,gap_reached,17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_paid500,S0-R,gap_unserved,54.2761311424504,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,gap_unserved,36.8723000117532,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,gap_unserved,-17.4038311306971,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,eligible_unserved,500,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,eligible_unserved,-5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,B_total,2441.83783463132,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_paid500,S1-R,B_total,2441.83783463133,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_paid500,paired_difference,B_total,4.54747350886464e-13,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_paid500,S0-R,I_total,3905.02401491779,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_paid500,S1-R,I_total,3839.25040623358,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_paid500,paired_difference,I_total,-65.7736086842124,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_paid500,S0-R,family_reached,443.164168975105,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,family_reached,430.496985138252,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,family_reached,-12.6671838368525,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,rural_reached,281.63188709168,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,rural_reached,281.81263551713,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,rural_reached,0.180748425449508,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S1-R,inquiry_h,7.39293069409281,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,paired_difference,inquiry_h,7.39293069409281,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S0-R,RN_h,4563.26377418336,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S1-R,RN_h,4571.01820172835,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,paired_difference,RN_h,7.75442754499181,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S0-R,OT_h,6594.89566127504,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S1-R,OT_h,6595.43790655139,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,paired_difference,OT_h,0.542245276348694,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S0-R,provider_USD,561394.571438886,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_rural_paid500,S1-R,provider_USD,561524.879548459,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_rural_paid500,paired_difference,provider_USD,130.308109572856,500,original2018 weighted1000,CURRENT_SENSITIVITY,2024 US$ / original2018 1000
+2018_rural_paid500,S0-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S1-R,patient_contact_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,paired_difference,patient_contact_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S0-R,patient_total_h,5000,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S1-R,patient_total_h,5007.39293069409,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,paired_difference,patient_total_h,7.39293069409268,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S0-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,tier1_packages,135.09385497258,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,tier1_packages,5.6843418860808e-14,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,tier2_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,tier3_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,query_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S1-R,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,paired_difference,query_mass,88.7151683291137,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_paid500,S0-R,travel_RN_h,563.263774183361,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S1-R,travel_RN_h,563.62527103426,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,paired_difference,travel_RN_h,0.361496850899016,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S0-R,travel_OT_h,844.895661275041,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,S1-R,travel_OT_h,845.43790655139,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_paid500,paired_difference,travel_OT_h,0.542245276348581,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,S0-R,packages,437,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_fixed500,S1-R,packages,436,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_fixed500,paired_difference,packages,-1,500,original2018 weighted1000,CURRENT_SENSITIVITY,complete packages / original2018 1000
+2018_rural_fixed500,S0-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_fixed500,S1-R,eligible_mass,1000,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_fixed500,paired_difference,eligible_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted candidates / original2018 1000
+2018_rural_fixed500,S0-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,gap_population,230.987547374799,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,gap_population,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,gap_reached,158.723538045805,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_fixed500,S1-R,gap_reached,170.235107114862,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_fixed500,paired_difference,gap_reached,11.5115690690574,500,original2018 weighted1000,CURRENT_SENSITIVITY,opportunities / original2018 1000
+2018_rural_fixed500,S0-R,gap_unserved,72.2640093289948,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,gap_unserved,60.7524402599374,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,gap_unserved,-11.5115690690574,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,eligible_unserved,563,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,eligible_unserved,564,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,eligible_unserved,1,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,B_total,2349.08424411818,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_fixed500,S1-R,B_total,2347.08424411818,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_fixed500,paired_difference,B_total,-1.99999999999909,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal basic ADL index units / original2018 1000
+2018_rural_fixed500,S0-R,I_total,3504.14862013698,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_fixed500,S1-R,I_total,3440.45543970347,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_fixed500,paired_difference,I_total,-63.6931804335068,500,original2018 weighted1000,CURRENT_SENSITIVITY,ordinal IADL index units / original2018 1000
+2018_rural_fixed500,S0-R,family_reached,389.879552768178,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,family_reached,380.792156874921,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,family_reached,-9.08739589325717,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,rural_reached,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,rural_reached,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,rural_reached,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,inquiry_h,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,S1-R,inquiry_h,3.98332916341051,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,paired_difference,inquiry_h,3.98332916341051,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,S0-R,RN_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,S1-R,RN_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,paired_difference,RN_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,S0-R,OT_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,S1-R,OT_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,paired_difference,OT_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,S0-R,provider_USD,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,2024 US$ / original2018 1000
+2018_rural_fixed500,S1-R,provider_USD,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,2024 US$ / original2018 1000
+2018_rural_fixed500,paired_difference,provider_USD,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,2024 US$ / original2018 1000
+2018_rural_fixed500,S0-R,patient_contact_h,4370,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,S1-R,patient_contact_h,4360,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,paired_difference,patient_contact_h,-10,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,S0-R,patient_total_h,4370,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,S1-R,patient_total_h,4363.98332916341,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,paired_difference,patient_total_h,-6.01667083658958,500,original2018 weighted1000,CURRENT_SENSITIVITY,hours / original2018 1000
+2018_rural_fixed500,S0-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,tier0_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,tier1_packages,72.0938549725797,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,tier1_packages,71.0938549725797,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,tier1_packages,-1,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,tier2_packages,234.531875498455,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,tier2_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,tier3_packages,130.374269528965,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,tier3_packages,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,family_hours_known_mass,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,recorded_family_month_hours,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,query_mass,0,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S1-R,query_mass,47.7999499609261,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,paired_difference,query_mass,47.7999499609261,500,original2018 weighted1000,CURRENT_SENSITIVITY,weighted opportunity or index total / original2018 1000
+2018_rural_fixed500,S0-R,travel_RN_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,S1-R,travel_RN_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,paired_difference,travel_RN_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,S0-R,travel_OT_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,S1-R,travel_OT_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000
+2018_rural_fixed500,paired_difference,travel_OT_h,,500,original2018 weighted1000,SUPPRESSED_COMPLEMENT,hours / original2018 1000

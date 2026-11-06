@@ -1,0 +1,20 @@
+﻿Sensitivity,Outcome,S0,S1,"S1 − S0
+(95% CI)"
+Age ≥65; 500 original-scale places,Complete programmes,500.00,500.00,0
+Age ≥65; 500 original-scale places,Gap allocations,173.08,196.86,23.77 (3.05 to 30.65)
+Age ≥65; 500 original-scale places,Covered IADL (index units),"3,897.21","3,759.85",−137.36 (−171.82 to −5.10)
+Age ≥65; 50% of subgroup,Complete programmes,409.56,409.56,0
+Age ≥65; 50% of subgroup,Gap allocations,152.69,159.31,6.62 (0.20 to 16.72)
+Age ≥65; 50% of subgroup,Covered IADL (index units),"3,299.50","3,260.82",−38.68 (−89.72 to 0.00)
+Three-minute targeted enquiry,Complete programmes,500.00,499.00,−1.00 (−1.00 to −1.00)
+Three-minute targeted enquiry,Gap allocations,176.71,194.12,17.40 (4.76 to 21.79)
+Three-minute targeted enquiry,Covered IADL (index units),"3,905.02","3,831.25",−73.77 (−116.34 to −15.68)
+Ten-minute targeted enquiry,Complete programmes,500.00,498.00,−2.00 (−3.00 to −2.00)
+Ten-minute targeted enquiry,Gap allocations,176.71,194.12,17.40 (3.56 to 21.54)
+Ten-minute targeted enquiry,Covered IADL (index units),"3,905.02","3,823.14",−81.88 (−125.63 to −21.45)
+County resampling; equal 500,Gap allocations,176.71,194.12,17.40 (5.99 to 21.81)
+County resampling; equal 500,Covered IADL (index units),"3,905.02","3,839.25",−65.77 (−108.58 to −10.72)
+County resampling; equal 500,Family-help allocations,443.16,430.50,−12.67 (−16.41 to −2.29)
+Family 0 h/programme; 50% enquiry accompaniment,Family participation (h),0,3.70,3.70 (3.08 to 4.31)
+Family 5 h/programme; 50% enquiry accompaniment,Family participation (h),"2,500.00","2,498.70",−1.30 (−5.97 to −1.03)
+Family 10 h/programme; 50% enquiry accompaniment,Family participation (h),"5,000.00","4,993.70",−6.30 (−15.97 to −6.03)

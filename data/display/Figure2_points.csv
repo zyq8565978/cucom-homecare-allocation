@@ -1,0 +1,19 @@
+﻿capacity,comparison,x_gap_gain,y_covered_IADL_loss,x_lower,x_upper,y_lower,y_upper,status,denominator,source,note
+100,known_equal,,,,,,,Withheld,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+100,fixed_resource,,,,,,,Withheld,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+200,known_equal,,,,,,,Withheld,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+200,fixed_resource,,,,,,,Withheld,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+300,known_equal,8.79097829307,68.0112193968,0.142481586993,18.2147219135,-0.0,151.186236051,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+300,fixed_resource,7.79097829307,70.7780046799,-0.0269988737676,17.9205991343,-0.0,156.394436027,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+400,known_equal,5.99487979749,25.8064986233,0.0,7.27436305558,-0.0,29.6467201619,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+400,fixed_resource,4.99487979749,28.8064986233,-0.357638813819,6.85307457009,2.82895725982,36.3524668173,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+500,known_equal,17.4038311307,65.7736086842,5.67537156423,21.9370435046,10.2180238215,109.766488875,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+500,fixed_resource,17.4038311307,73.7736086842,4.55486212434,21.7324485005,15.8228203388,118.614974009,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+600,known_equal,28.8340288126,133.776555932,14.7244545203,34.6542899187,43.33194653,186.776438194,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+600,fixed_resource,28.8340288126,158.251426013,12.7457002898,34.3166958665,59.3217883245,205.818806192,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+700,known_equal,,,,,,,Withheld,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+700,fixed_resource,,,,,,,Withheld,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+800,known_equal,0.0,-0.0,0.0,0.0,-0.0,-0.0,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+800,fixed_resource,0.0,-0.0,0.0,0.0,-0.0,-0.0,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+900,known_equal,0.0,-0.0,0.0,0.0,-0.0,-0.0,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region
+900,fixed_resource,0.0,-0.0,0.0,0.0,-0.0,-0.0,Available,original 1000,PAIRED_NINE_CAPACITY_RESULTS.csv,Marginal CIs are not a joint confidence region

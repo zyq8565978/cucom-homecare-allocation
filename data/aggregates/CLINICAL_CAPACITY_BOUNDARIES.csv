@@ -1,0 +1,5 @@
+﻿tier,label,source_n,candidate_mass,cumulative_mass,cumulative_lower,cumulative_upper,gap_mass,interpretation
+3,Basic ADL unable,299,130.374269529,130.374269529,113.528745319,147.61704467,58.7754224076,allocation hierarchy boundary; not validated clinical disability grade
+2,Basic ADL needs help; no inability,531,234.531875498,364.906145027,340.686671864,389.815735128,76.4167923634,allocation hierarchy boundary; not validated clinical disability grade
+1,IADL needs help; no basic dependence,840,347.265408701,712.171553729,689.345603455,734.084750008,95.7953326038,allocation hierarchy boundary; not validated clinical disability grade
+0,Other functional difficulty,763,287.828446271,1000,1000,1000,0,allocation hierarchy boundary; not validated clinical disability grade

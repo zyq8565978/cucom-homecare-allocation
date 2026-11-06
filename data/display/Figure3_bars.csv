@@ -1,0 +1,8 @@
+﻿panel,scenario,policy,bar,lower,upper,programmes,unit,source
+A,universal,S1,83.3333333333333,83.3333333333333,83.3333333333333,500,additional RN enquiry hours,QUERY_IMPLEMENTATION_500.csv
+A,target,S1,7.39293069409281,6.18069283755688,8.62948540723687,500,additional RN enquiry hours,QUERY_IMPLEMENTATION_500.csv
+B,query_target_5_fixed,S0,0.0,0.0,0.0,500.0,programmes below original 500,ALL_PAIRED_UNCERTAINTY.csv
+B,query_target_5_fixed,S1,1.0,1.0,2.0,499.0,programmes below original 500,ALL_PAIRED_UNCERTAINTY.csv
+B,query_universal_5_fixed,S1,11.0,11.0,11.0,489.0,programmes below original 500,ALL_PAIRED_UNCERTAINTY.csv
+B,2018_rural_fixed500,S0,63.0,57.0,70.0,437.0,programmes below original 500,ALL_PAIRED_UNCERTAINTY.csv
+B,2018_rural_fixed500,S1,64.0,57.0,70.0,436.0,programmes below original 500,ALL_PAIRED_UNCERTAINTY.csv

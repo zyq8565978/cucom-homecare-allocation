@@ -1,0 +1,19 @@
+﻿Input,Frozen value,Source or planning basis
+Programme duration,5 months,"CAPABLE 2014 protocol; 2019 RCT [1,2]."
+Nursing visits,Up to 4 visits,CAPABLE protocol [1]; complete programme retained.
+Occupational therapy visits,Up to 6 visits,CAPABLE protocol [1]; complete programme retained.
+Nursing time per programme,8 h,Planning: 4 contact hours plus travel and coordination.
+OT time per programme,11.50 h,Planning: 6 contact hours plus travel and coordination.
+Patient contact per programme,10 h,"Protocol contact schedule, 4 nursing + 6 OT hours; enquiry additional."
+Targeted support enquiry,5 min/person,"Planning assumption for ranking information, not a formal disability assessment."
+Extra rural travel,0.50 h/visit,"Planning scenario, separately applied to four nursing and six OT visits."
+Annual industry wage reference,"143,173 CNY/year",NBS wage table: 2024 health and social work value [4]; not occupation-specific wages.
+Employer cost factor,1.25 multiplier,Planning assumption; not an official conversion rule.
+Productive work time,"1,600 h/year",Planning assumption.
+Home adaptation and implementation,"5,500 CNY/programme","CNY5,000 policy-anchored adaptation ceiling [5] + CNY500 implementation planning allowance; not a Chinese CAPABLE quotation."
+2024 average exchange rate,7.1217 CNY/US$,NBS 2024 statistical communiqué [6]; converted once.
+Professional hourly reference,15.70607 2024 US$/h,"143,173 × 1.25 ÷ 1,600 ÷ 7.1217; common planning proxy, not interchangeable staff."
+Complete programme cost,"1,078.56 2024 US$","19.5 professional hours × hourly reference + 5,500 ÷ 7.1217."
+Reference nursing ceiling,"4,000 h/1,000",500 complete programmes × 8 h; planning resource ceiling.
+Reference OT ceiling,"5,750 h/1,000",500 complete programmes × 11.5 h; planning resource ceiling.
+Reference budget ceiling,"539,277.92 2024 US$/1,000",500 × unrounded complete-programme cost.

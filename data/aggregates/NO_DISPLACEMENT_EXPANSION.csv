@@ -1,0 +1,127 @@
+﻿capacity,starting_S1,metric,estimate,lower,upper,suppressed,unit,evidence
+100,known_equal,total_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,known_equal,extra_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,known_equal,extra_RN_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,known_equal,extra_OT_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,known_equal,extra_provider_USD,,,,True,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,known_equal,extra_patient_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,known_equal,extra_family_h_at5_plus_half_query,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,fixed_resource,total_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,fixed_resource,extra_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,fixed_resource,extra_RN_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,fixed_resource,extra_OT_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,fixed_resource,extra_provider_USD,,,,True,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,fixed_resource,extra_patient_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+100,fixed_resource,extra_family_h_at5_plus_half_query,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,known_equal,total_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,known_equal,extra_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,known_equal,extra_RN_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,known_equal,extra_OT_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,known_equal,extra_provider_USD,,,,True,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,known_equal,extra_patient_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,known_equal,extra_family_h_at5_plus_half_query,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,fixed_resource,total_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,fixed_resource,extra_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,fixed_resource,extra_RN_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,fixed_resource,extra_OT_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,fixed_resource,extra_provider_USD,,,,True,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,fixed_resource,extra_patient_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+200,fixed_resource,extra_family_h_at5_plus_half_query,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,known_equal,total_packages,308.790978293,300.142481587,318.214721913,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,known_equal,extra_packages,8.79097829307,0.142481586993,18.2147219135,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,known_equal,extra_RN_h,76.5269294538,4.60196734332,152.973625711,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,known_equal,extra_OT_h,101.09625037,1.63853825042,209.469302005,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,known_equal,extra_provider_USD,9578.92457079,208.358880382,19758.2880745,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,known_equal,extra_patient_h,94.1088860399,5.02317247837,189.526546381,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,known_equal,extra_family_h_at5_plus_half_query,47.05444302,2.51158623919,94.7632731905,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,fixed_resource,total_packages,307.790978293,300,317.920599134,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,fixed_resource,extra_packages,7.79097829307,0,17.9205991343,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,fixed_resource,extra_RN_h,68.5269294538,3.0082391874,149.847561905,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,fixed_resource,extra_OT_h,89.5962503703,0,206.086890044,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,fixed_resource,extra_provider_USD,8500.36872431,49.5720332641,19422.5021215,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,fixed_resource,extra_patient_h,84.1088860399,3.03184500681,185.769764818,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+300,fixed_resource,extra_family_h_at5_plus_half_query,42.05444302,1.51592250341,92.8848824089,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,known_equal,total_packages,405.994879797,400,407.274363056,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,known_equal,extra_packages,5.99487979749,0,7.27436305558,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,known_equal,extra_RN_h,50.1780222767,1.61520105858,60.7294479637,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,known_equal,extra_OT_h,68.9411176712,0,83.6551751391,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,known_equal,extra_provider_USD,6500.66416706,26.6571087316,7886.70128594,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,known_equal,extra_patient_h,62.1677818717,1.62258710926,75.2343534677,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,known_equal,extra_family_h_at5_plus_half_query,31.0838909359,0.811293554628,37.6171767339,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,fixed_resource,total_packages,404.994879797,400,406.85307457,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,fixed_resource,extra_packages,4.99487979749,0,6.85307457009,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,fixed_resource,extra_RN_h,42.1780222767,1.24131403536,57.4177652258,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,fixed_resource,extra_OT_h,57.4411176712,0,78.8103575561,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,fixed_resource,extra_provider_USD,5422.10832058,19.647493759,7433.07574926,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,fixed_resource,extra_patient_h,52.1677818717,1.24474110483,71.1752542182,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+400,fixed_resource,extra_family_h_at5_plus_half_query,26.0838909359,0.622370552414,35.5876271091,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,known_equal,total_packages,517.403831131,505.675371564,521.937043505,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,known_equal,extra_packages,17.4038311307,5.67537156423,21.9370435046,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,known_equal,extra_RN_h,146.62357974,52.6230159378,183.259595715,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,known_equal,extra_OT_h,200.144058003,65.2667729886,252.276000302,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,known_equal,extra_provider_USD,18887.1176912,6233.49333938,23790.6971802,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,known_equal,extra_patient_h,181.431242001,63.9714286467,227.292788812,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,known_equal,extra_family_h_at5_plus_half_query,90.7156210005,31.9857143233,113.646394406,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,fixed_resource,total_packages,517.403831131,504.554862124,521.7324485,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,fixed_resource,extra_packages,17.4038311307,4.55486212434,21.7324485005,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,fixed_resource,extra_RN_h,146.62357974,43.7506236871,181.765117028,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,fixed_resource,extra_OT_h,200.144058003,52.3809144299,249.923157756,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,fixed_resource,extra_provider_USD,18887.1176912,5023.75738832,23562.1663757,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,fixed_resource,extra_patient_h,181.431242001,52.8308289924,225.323399895,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+500,fixed_resource,extra_family_h_at5_plus_half_query,90.7156210005,26.4154144962,112.661699948,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,known_equal,total_packages,628.834028813,614.72445452,634.654289919,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,known_equal,extra_packages,28.8340288126,14.7244545203,34.6542899187,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,known_equal,extra_RN_h,243.730796741,129.450390782,290.664485679,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,known_equal,extra_OT_h,331.591331345,169.331226983,398.524334065,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,known_equal,extra_provider_USD,31304.209086,16062.1232518,37582.5111656,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,known_equal,extra_patient_h,301.398854366,158.85962411,359.920522958,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,known_equal,extra_family_h_at5_plus_half_query,150.699427183,79.429812055,179.960261479,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,fixed_resource,total_packages,628.834028813,612.74570029,634.316695867,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,fixed_resource,extra_packages,28.8340288126,12.7457002898,34.3166958665,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,fixed_resource,extra_RN_h,243.730796741,113.679087457,288.118470616,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,fixed_resource,extra_OT_h,331.591331345,146.575553333,394.642002465,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,fixed_resource,extra_provider_USD,31304.209086,13933.0926587,37222.6169471,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,fixed_resource,extra_patient_h,301.398854366,139.310744521,356.718215928,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+600,fixed_resource,extra_family_h_at5_plus_half_query,150.699427183,69.6553722606,178.359107964,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,known_equal,total_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,known_equal,extra_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,known_equal,extra_RN_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,known_equal,extra_OT_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,known_equal,extra_provider_USD,,,,True,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,known_equal,extra_patient_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,known_equal,extra_family_h_at5_plus_half_query,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,fixed_resource,total_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,fixed_resource,extra_packages,,,,True,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,fixed_resource,extra_RN_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,fixed_resource,extra_OT_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,fixed_resource,extra_provider_USD,,,,True,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,fixed_resource,extra_patient_h,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+700,fixed_resource,extra_family_h_at5_plus_half_query,,,,True,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,known_equal,total_packages,800,800,800,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,known_equal,extra_packages,0,0,1.49778698703e-14,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,known_equal,extra_RN_h,0,0,1.19822958963e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,known_equal,extra_OT_h,0,0,1.72245503509e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,known_equal,extra_provider_USD,0,0,1.61544691165e-11,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,known_equal,extra_patient_h,0,0,1.49778698703e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,known_equal,extra_family_h_at5_plus_half_query,0,0,7.48893493517e-14,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,fixed_resource,total_packages,800,800,800,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,fixed_resource,extra_packages,0,0,1.49778698703e-14,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,fixed_resource,extra_RN_h,0,0,1.19822958963e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,fixed_resource,extra_OT_h,0,0,1.72245503509e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,fixed_resource,extra_provider_USD,0,0,1.61544691165e-11,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,fixed_resource,extra_patient_h,0,0,1.49778698703e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+800,fixed_resource,extra_family_h_at5_plus_half_query,0,0,7.48893493517e-14,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,known_equal,total_packages,900,900,900,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,known_equal,extra_packages,0,0,4.42019202739e-14,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,known_equal,extra_RN_h,0,0,3.53615362191e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,known_equal,extra_OT_h,0,0,5.0832208315e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,known_equal,extra_provider_USD,0,0,4.7674239537e-11,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,known_equal,extra_patient_h,0,0,4.42019202739e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,known_equal,extra_family_h_at5_plus_half_query,0,0,2.2100960137e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,fixed_resource,total_packages,900,900,900,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,fixed_resource,extra_packages,0,0,4.42019202739e-14,False,complete package opportunities,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,fixed_resource,extra_RN_h,0,0,3.53615362191e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,fixed_resource,extra_OT_h,0,0,5.0832208315e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,fixed_resource,extra_provider_USD,0,0,4.7674239537e-11,False,2024 US$,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,fixed_resource,extra_patient_h,0,0,4.42019202739e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained
+900,fixed_resource,extra_family_h_at5_plus_half_query,0,0,2.2100960137e-13,False,hours,CONDITIONAL_PLANNING; all original S0 probabilities retained

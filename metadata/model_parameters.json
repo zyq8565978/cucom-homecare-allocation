@@ -1,0 +1,59 @@
+{
+  "title": "Balancing functional limitations and gaps in assistance in home-based care allocation for older adults with multimorbidity: A population-based simulation guided by the Cumulative Complexity Model",
+  "n2018": 2433,
+  "age_minimum": 60,
+  "policies": [
+    "S0-R",
+    "S1-R"
+  ],
+  "primary_packages_per_original1000": 500,
+  "capacities": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900
+  ],
+  "programme_months": 5,
+  "RN_h_per_package": 8,
+  "OT_h_per_package": 11.5,
+  "patient_contact_h_per_package": 10,
+  "question_minutes": 5,
+  "question_sensitivity_minutes": [
+    3,
+    10
+  ],
+  "RN_visits": 4,
+  "OT_visits": 6,
+  "rural_extra_h_per_visit": 0.5,
+  "currency": "2024 US$",
+  "fx_CNY_per_USD": 7.1217,
+  "industry_wage_reference_CNY": 143173,
+  "employer_planning_factor": 1.25,
+  "productive_hours_planning": 1600,
+  "reference_hourly_USD": 15.706068249153994,
+  "implementation_home_adaptation_bundle_CNY": 5500,
+  "complete_package_USD": 1078.5558464797732,
+  "resource_ceiling_RN_h": 4000,
+  "resource_ceiling_OT_h": 5750,
+  "resource_ceiling_USD": 539277.9232398866,
+  "family_programme_h_scenarios": [
+    0,
+    5,
+    10
+  ],
+  "family_inquiry_fraction_scenarios": [
+    0,
+    0.5,
+    1
+  ],
+  "community_replicates": 5000,
+  "county_replicates": 5000,
+  "seed": 20261027,
+  "interval": "paired pointwise percentile95%CI; public-data cluster approximation",
+  "clinical_effect": "NOT_IDENTIFIED; no new QALY or caregiver savings"
+}
