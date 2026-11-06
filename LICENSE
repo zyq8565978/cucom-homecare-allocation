@@ -20,6 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Scope: this software licence applies to the original analysis and reproduction
-code. It does not license CHARLS participant data, survey instruments, or other
-third-party materials. See docs/DATA_ACCESS.md for data access and sharing scope.
